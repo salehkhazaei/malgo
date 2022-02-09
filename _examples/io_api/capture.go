@@ -4,7 +4,7 @@ import (
 	"context"
 	"io"
 
-	"github.com/gen2brain/malgo"
+	"github.com/salehkhazaei/malgo"
 )
 
 // Capture records incoming samples into the provided writer.
